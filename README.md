@@ -1,19 +1,21 @@
-<h1 align="center">Howya! I'm Luan</h1>
-<h3 align="center">A love create things and 'unfinished' it. hahaha</h3>
+<h1 align="center">Howyaa! I'm LO (El Ou)!</h1>
+<h3 align="left">A love create things and 'unfinished' it! hahaha kiddin'...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maffraluan&label=Profile%20views&color=0e75b6&style=flat" alt="maffraluan" /> </p>
+- All my best projects are locked. I'm sorry but I hope one day finish 'em! Feel yourself to 'round of rest'em.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maffraluan&label=Profile%20views&color=0e75b6&style=flat" alt="maffraluan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maffraluan" alt="maffraluan" /></a> </p>
 
-- 🔭 I’m currently working on **Code Community < Private Code >**
+- 🔭  I’m currently working on **Code Community < Private Code >**
 
-- 🌱 I’m currently learning **Javacript ecosystem. TypeScript, a little of backend, C# sometimes.**
+- 🌱  I’m currently learning **Javacript ecosystem. TypeScript, a little of backend, C# sometimes.**
 
-- 📫 How to reach me **maffra-oliveira@outlook.com**
+- 📫  How to reach me **maffra-oliveira@outlook.com**
 
-- 📄 Know about my experiences [https://portfolio-maffraluan.netlify.app/about](https://portfolio-maffraluan.netlify.app/about)
+- 📄  Know about my experiences [https://portfolio-maffraluan.netlify.app/about](https://portfolio-maffraluan.netlify.app/about)
 
-- ⚡ Fun fact **I like to code and ask alot. :D**
+- ⚡  Fun fact **I like to code and Google on it to unlock my mind!. :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
