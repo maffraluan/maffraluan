@@ -3,7 +3,7 @@
 
 - All my best projects are locked. I'm sorry but I hope one day finish 'em! Feel yourself to 'round of rest'em.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maffraluan&label=Profile%20views&color=0e75b6&style=flat" alt="maffraluan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maffraluan&label=Profile%20views&color=0e75b6&style=flat" alt="maffraluan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maffraluan" alt="maffraluan" /></a> </p>
 
