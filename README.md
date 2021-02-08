@@ -13,7 +13,7 @@
 
 - 📫  How to reach me **maffra-oliveira@outlook.com**
 
-- 📄  Know about my experiences [https://portfolio-maffraluan.netlify.app/about](https://portfolio-maffraluan.netlify.app/about)
+- 📄  Know about my experiences [portfolio](https://portfolio-maffraluan.netlify.app/)
 
 - ⚡  Fun fact **I like to code and Google on it to unlock my mind!. :D**
 
