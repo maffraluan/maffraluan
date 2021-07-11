@@ -1,5 +1,4 @@
-<h1 align="center">Howyaa! I'm LO (El Ou)!</h1>
-<h3 align="left">A love create things and 'unfinished' it! hahaha kiddin'...</h3>
+<h1 align="center">Howyaa!</h1>
 
 - All my best projects are locked. I'm sorry but I hope one day finish 'em! Feel yourself to 'round of rest'em.
 
@@ -7,15 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maffraluan" alt="maffraluan" /></a> </p>
 
-- 🔭  I’m currently working on **Itera IA**
+- 🔭  I’m currently working on **Itera - Inovação e Desenvolvimento Tecnológico**
 
-- 🌱  I’m currently learning **Javacript ecosystem. TypeScript, a little of backend, C# sometimes.**
+- 🌱  I’m currently learning **C# .Net Core and Databases as ES, Mongo and Postgres**
 
 - 📫  How to reach me **maffra-oliveira@outlook.com**
 
 - 📄  Know about my experiences [portfolio](https://portfolio-maffraluan.netlify.app/)
-
-- ⚡  Fun fact **I like to code and Google on it to unlock my mind!. :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
