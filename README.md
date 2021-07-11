@@ -8,7 +8,7 @@
 
 - 🔭  I’m currently working on **Itera - Inovação e Desenvolvimento Tecnológico**
 
-- 🌱  I’m currently learning **C# .Net Core and Databases as ES, Mongo and Postgres**
+- 🌱  I’m currently learning **C# .Net Core, a little bit of Py, Databases as ES, Mongo and Postgres**
 
 - 📫  How to reach me **maffra-oliveira@outlook.com**
 
